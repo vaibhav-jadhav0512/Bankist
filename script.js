@@ -138,7 +138,7 @@ const calcDisplaySummary = function (acc) {
 };
 
 let currentAccount;
-
+//commit
 btnLogin.addEventListener("click", (e) => {
   e.preventDefault();
   currentAccount = accounts.find(
